@@ -1,0 +1,10 @@
+.background-image{
+    background-image: url("../images/old-nyt.jpg");
+}
+h1 {
+    font-size: 120px;
+}
+.header-text {
+    color: white;
+    text-shadow: 5px 5px 5px black;
+}
